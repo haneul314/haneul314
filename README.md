@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Interest
-*cryptography
-*system hacking
-*reinforcement learning(and AI safety!)
+* cryptography
+* system hacking
+* reinforcement learning(and AI safety!)
